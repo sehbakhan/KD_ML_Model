@@ -1,4 +1,4 @@
-## KD_ML_Model
+# KD_ML_Model
 
 Dependencies
 This project requires the following Python packages:
@@ -9,7 +9,7 @@ scikit-learn
 matplotlib
 seaborn
 
-# Dataset
+### Dataset
 This project uses the Kidney Disease Dataset from the UCI Machine Learning Repository. The dataset contains features such as age, blood pressure, specific gravity, and other medical attributes.
 
 # Dataset Structure
